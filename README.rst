@@ -16,6 +16,9 @@ Flask App Builder
 
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/psf/black
+    
+.. image:: https://app.codacy.com/project/badge/Grade/724547c64eb046428f61b9aade150bcb    
+    :target: https://www.codacy.com/manual/gustavosandesilva/Flask-AppBuilder?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gustavosande/Flask-AppBuilder&amp;utm_campaign=Badge_Grade
 
 
 Simple and rapid application development framework, built on top of `Flask <http://flask.pocoo.org/>`_.
